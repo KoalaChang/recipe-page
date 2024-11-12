@@ -13,7 +13,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -37,7 +36,7 @@ The Recipe page is build with Semantic HTML and Tailwind CSS. This is also a mob
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://recipe-page-7vlboznwy-koalachangs-projects.vercel.app/](https://recipe-page-7vlboznwy-koalachangs-projects.vercel.app/)
 
 ## My process
 
